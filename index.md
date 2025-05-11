@@ -2,12 +2,11 @@
 layout: default
 ---
 
-# About Me
 ![Profile Picture](/assets/profile.jpeg){: style="width:150px; border-radius:50%"}
 
 # Hi, I'm Kauthara 👋  
 
-**Data Analyst** | **Data Scientist** | **AI Developer**  
+**Data Analyst** | **IT Risk analyst** | **Business Intelligent analyst** | **Data science** |
 
 I turn  data into actionable insights using Python, SQL, Excel, and Power BI. 
 I bring problem-solving efficiency to data challenges.
