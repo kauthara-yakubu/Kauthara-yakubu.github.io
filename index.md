@@ -3,13 +3,13 @@ layout: default
 ---
 
 # About Me
-![Profile Picture](/assets/profile.jpeg){: style="width:75px; border-radius:50%"}
+![Profile Picture](/assets/profile.jpeg){: style="width:150px; border-radius:50%"}
 
 # Hi, I'm Kauthara 👋  
 
 **Data Analyst** | **Data Scientist** | **AI Developer**  
 
-I turn  data into actionable insights using Python, SQL, and Power BI. 
+I turn  data into actionable insights using Python, SQL, Excel, and Power BI. 
 I bring problem-solving efficiency to data challenges.
 
 **Currently:** pursuing my Data Science & AI diploma at Loyalist College, where I:
@@ -17,7 +17,7 @@ I bring problem-solving efficiency to data challenges.
 - Build and evaluate predictive models
 - Communicate insights through clear storytelling
 
-**Skills** : Python | SQL | Hadoop | Tableau | Power BI
+**Skills**: Python | SQL | Hadoop | Tableau | Power BI
 
 **Open to internship roles:** **Data Analyst** | **Business Intelligence Analyst** | **Data Scientist**
 
