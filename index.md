@@ -6,7 +6,7 @@ layout: default
 
 # Hi, I'm Kauthara 👋  
 
-**Data Analyst** | **IT Risk analyst** | **Business Intelligent analyst** | **Data science** |
+**Data Analyst** | **IT Risk analyst** | **Business Intelligent analyst** | **Data scientist** |
 
 I turn  data into actionable insights using Python, SQL, Excel, and Power BI. 
 I bring problem-solving efficiency to data challenges.
@@ -15,11 +15,15 @@ I bring problem-solving efficiency to data challenges.
 - Clean, analyze, and visualize complex datasets
 - Build and evaluate predictive models
 - Communicate insights through clear storytelling
+- with experience in auditing, internal controls, and compliance
 
-**Skills**: Python | SQL | Hadoop | Tableau | Power BI
+**Skills**: Python | SQL | Hadoop | Excel | Power BI
 
-**Open to internship roles:** **Data Analyst** | **Business Intelligence Analyst** | **Data Scientist**
-
+**Open to roles:**  
+- **Data Analyst**
+- **IT Risk Analyst** 
+- **Business Intelligence Analyst**  
+- **Data Scientist** 
 
 ## My Projects
 
