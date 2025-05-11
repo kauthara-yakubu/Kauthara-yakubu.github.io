@@ -15,8 +15,10 @@ I bring problem-solving efficiency to data challenges.
 - Communicate insights through clear storytelling
 - with experience in auditing, internal controls, and compliance
 
-**Skills**: Python | SQL | Hadoop | Excel | Power BI | Business Requirement Documents
-            A/B Testing | Xgboost | Azure | Snowflake | Deep Learning | NLP
+**Skills**:
+
+ Python | SQL | Hadoop | Excel | Power BI | Business Requirement Documents
+ A/B Testing | Xgboost | Azure | Snowflake | Deep Learning | NLP
 
 
 **Open to internship roles:**  
