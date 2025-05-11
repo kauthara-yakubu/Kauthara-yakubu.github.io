@@ -3,23 +3,23 @@ layout: default
 ---
 
 # About Me
-![Profile Picture](/assets/profile.jpg){: style="width:150px; border-radius:50%"}
+![Profile Picture](/assets/profile.jpeg){: style="width:150px; border-radius:50%"}
 
-Hi! I'm Kauthara a data analyst, data scientist and AI developer. 
+# Hi, I'm Kauthara 👋  
 
-With about three years of experience as an IT Operations support, I've focused on optimizing service operations and enhancing client satisfaction.
+**Data Analyst** | **Data Scientist** | **AI Developer**  
 
-I'm now eager to apply my analytical mindset to create impactful business solutions and consistently deliver high-quality results in fast-paced environments.
+I turn  data into actionable insights using Python, SQL, and Power BI. 
+With about **3 years of IT operations** experience, I bring problem-solving efficiency to data challenges.
 
-This portfolio showcases projects I completed while pursuing my Data Science & Artificial Intelligence diploma at Loyalist College in Toronto. 
-It highlights my hands-on work with tools like Python, Hadoop, SQL, and Power BI. Throughout these projects, I’ve built essential skills for data analyst and data science,
-from identifying and exploring problems to data cleaning, sampling, building and assessing predictive models, and translating insights into compelling stories. 
+**Currently:** pursuing my Data Science & AI diploma at Loyalist College, where I:
+- Clean, analyze, and visualize complex datasets
+- Build and evaluate predictive models
+- Communicate insights through clear storytelling
 
-Some projects involved teamwork, reflecting my ability to collaborate effectively and deliver data-driven insights that solve real-world business challenges.
+**Skills: Python | SQL | Hadoop | Tableau | Power BI**
 
-I'm currently looking to work as a , data analyst, business intelligence analyst or data scientist
-
-**Technical Skills: Python, SQL, Hadoop, Tableau, Power BI**
+**Open to roles:** **Data Analyst** | **Business Intelligence Analyst** | **Data Scientist**
 
 
 ## My Projects
