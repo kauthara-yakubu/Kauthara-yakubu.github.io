@@ -16,7 +16,7 @@ I bring problem-solving efficiency to data challenges.
 - with experience in auditing, internal controls, and compliance
 
 **Skills**: Python | SQL | Hadoop | Excel | Power BI | Business Requirement Documents
- NLP | Xgboost | Azure | Snowflake | Deep Learning
+            A/B Testing | Xgboost | Azure | Snowflake | Deep Learning | NLP
 
 
 **Open to internship roles:**  
