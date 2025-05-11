@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-![Profile Picture](/assets/profile.jpeg){: style="width:150px; border-radius:50%"}
+![Profile Picture](/assets/profile.jpeg){: style="width:75px; border-radius:50%"}
 
 # Hi, I'm Kauthara 👋  
 
