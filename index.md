@@ -10,16 +10,16 @@ layout: default
 **Data Analyst** | **Data Scientist** | **AI Developer**  
 
 I turn  data into actionable insights using Python, SQL, and Power BI. 
-With about **3 years of IT operations** experience, I bring problem-solving efficiency to data challenges.
+I bring problem-solving efficiency to data challenges.
 
 **Currently:** pursuing my Data Science & AI diploma at Loyalist College, where I:
 - Clean, analyze, and visualize complex datasets
 - Build and evaluate predictive models
 - Communicate insights through clear storytelling
 
-**Skills: Python | SQL | Hadoop | Tableau | Power BI**
+**Skills** : Python | SQL | Hadoop | Tableau | Power BI
 
-**Open to roles:** **Data Analyst** | **Business Intelligence Analyst** | **Data Scientist**
+**Open to internship roles:** **Data Analyst** | **Business Intelligence Analyst** | **Data Scientist**
 
 
 ## My Projects
