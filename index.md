@@ -9,7 +9,7 @@ layout: default
 I turn  data into actionable insights using Python, SQL, Excel, and Power BI. 
 I bring problem-solving efficiency to data challenges.
 
-**Currently:** a student pursuing my Data Science & AI diploma at Loyalist College, where I:
+**Currently:** a student pursuing Data Science & AI diploma at Loyalist College, where I:
 - Clean, analyze, and visualize complex datasets
 - Build and evaluate predictive models
 - Communicate insights through clear storytelling
