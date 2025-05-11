@@ -6,12 +6,10 @@ layout: default
 
 # Hi, I'm Kauthara 👋  
 
-**Data Analyst** | **IT Risk analyst** | **Business Intelligent analyst** | **Data scientist** |
-
 I turn  data into actionable insights using Python, SQL, Excel, and Power BI. 
 I bring problem-solving efficiency to data challenges.
 
-**Currently:** pursuing my Data Science & AI diploma at Loyalist College, where I:
+**Currently:** a student pursuing my Data Science & AI diploma at Loyalist College, where I:
 - Clean, analyze, and visualize complex datasets
 - Build and evaluate predictive models
 - Communicate insights through clear storytelling
@@ -19,10 +17,11 @@ I bring problem-solving efficiency to data challenges.
 
 **Skills**: Python | SQL | Hadoop | Excel | Power BI
 
-**Open to roles:**  
+**Open to internship roles:**  
 - **Data Analyst**
 - **IT Risk Analyst** 
-- **Business Intelligence Analyst**  
+- **Business Intelligence Analyst**
+- **Technical Analyst**
 - **Data Scientist** 
 
 ## My Projects
