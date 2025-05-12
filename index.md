@@ -28,7 +28,7 @@ I bring problem-solving efficiency to data challenges.
 - **Data Scientist** 
 
 ## My Projects
-### [U.S Import 2000-2023 Presentation](https://github.com/kauthara-yakubu/top_source_U.S_import_2000-2023_Presentation)
+### [U.S Import 2000-2023 Presentation](https://kauthara-yakubu.github.io/top_source_U.S_import_2000-2023_Presentation/)
 **Tech Stack**:  Excel, PowerPoint Slide 
 **Description**: Interactive dashboard tracking MoM regional sales performance.  
 ![Thumbnail](/assets/us_import.jpg){: style="max-width:300px"}
