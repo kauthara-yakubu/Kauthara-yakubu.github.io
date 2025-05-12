@@ -30,15 +30,18 @@ I bring problem-solving efficiency to data challenges.
 - **Data Scientist** 
 
 ## My Projects
-### [U.S Import 2000-2023 Presentation](https://kauthara-yakubu.github.io/top_source_U.S_import_2000-2023_Presentation/)
-**Tech Stack**: Excel, PowerPoint Slide 
-**Description**: A consulting-style slide that includes a clear slide title that gives away the insight.
-![Thumbnail](/assets/us_import.jpg){: style="max-width:300px"}
+
 
 ### [Awesome Chocolate Sales Analysis](https://kauthara-yakubu.github.io/awesome_chocolate_sales_analysis/)
 **Tech Stack**: Power BI, DAX, Python, Excel 
 **Description**: Interactive dashboard tracking MoM regional sales performance.  
 ![Thumbnail](/assets/sales-dash.jpg){: style="max-width:300px"}
+
+
+### [U.S Import 2000-2023 Presentation](https://kauthara-yakubu.github.io/top_source_U.S_import_2000-2023_Presentation/)
+**Tech Stack**: Excel, PowerPoint Slide 
+**Description**: A consulting-style slide that includes a clear slide title that gives away the insight.
+![Thumbnail](/assets/us_import.jpg){: style="max-width:300px"}
 
 
 ### [UK YouTubers Analysis 2024](https://kauthara-yakubu.github.io/top_uk_youtubers_2024/)
