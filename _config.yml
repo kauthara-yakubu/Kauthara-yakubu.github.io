@@ -1,7 +1,7 @@
 # _config.yml
 remote_theme: pages-themes/cayman@v0.2.0  
 title: "Kauthara Yakubu's Portfolio"
-description: "Data Analytics and Data Science"
+description: "Data Analyst and Data Scientist"
 baseurl: ""  
 plugins:
   - jekyll-remote-theme  
