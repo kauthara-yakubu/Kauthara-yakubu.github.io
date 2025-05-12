@@ -33,7 +33,7 @@ I bring problem-solving efficiency to data challenges.
 **Description**: Interactive dashboard tracking MoM regional sales performance.  
 ![Thumbnail](/assets/us_import.jpg){: style="max-width:300px"}
 
-### [Sales Dashboard](https://kauthara-yakubu.github.io/awesome_chocolate_sales_analysis/)
+### [Awesome Chocolate Sales Analysis](https://kauthara-yakubu.github.io/awesome_chocolate_sales_analysis/)
 **Tech Stack**: Power BI, DAX, Python, Excel 
 **Description**: Interactive dashboard tracking MoM regional sales performance.  
 ![Thumbnail](/assets/sales-dash.jpg){: style="max-width:300px"}
