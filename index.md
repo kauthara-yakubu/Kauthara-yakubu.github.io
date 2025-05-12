@@ -2,7 +2,6 @@
 layout: default
 ---
 
-![Profile Picture](/assets/profile.jpeg){: style="width:150px; border-radius:50%"}
 
 # Hi, I'm Kauthara 👋  
 
@@ -30,7 +29,7 @@ I bring problem-solving efficiency to data challenges.
 
 ## My Projects
 
-### [UK YouTubers Analysis 2024](https://github.com/kauthara-yakubu/top_uk_youtubers_2024)
+### [UK YouTubers Analysis 2024](https://kauthara-yakubu.github.io/awesome_chocolate_sales_analysis/)
 **Tech Stack**: SQL, Excel, Power BI  
 **Description**: Analyzed 100 UK YouTubers to identify trending niches and growth patterns.  
 ![Thumbnail](/assets/youtubers.png){: style="max-width:300px"}
