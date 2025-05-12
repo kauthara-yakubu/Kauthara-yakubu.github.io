@@ -1,6 +1,8 @@
 ---
 layout: default
+
 ---
+
 # Hi, I'm Kauthara! 👋
 
 I turn  data into actionable insights using Python, SQL, Excel, and Power BI. 
