@@ -30,7 +30,7 @@ I bring problem-solving efficiency to data challenges.
 ## My Projects
 ### [U.S Import 2000-2023 Presentation](https://kauthara-yakubu.github.io/top_source_U.S_import_2000-2023_Presentation/)
 **Tech Stack**:  Excel, PowerPoint Slide 
-**Description**: Interactive dashboard tracking MoM regional sales performance.  
+**Description**: A consulting-style slide that includes A clear slide title that gives away the insight (not just the topic)
 ![Thumbnail](/assets/us_import.jpg){: style="max-width:300px"}
 
 ### [Awesome Chocolate Sales Analysis](https://kauthara-yakubu.github.io/awesome_chocolate_sales_analysis/)
@@ -41,7 +41,7 @@ I bring problem-solving efficiency to data challenges.
 
 ### [UK YouTubers Analysis 2024](https://kauthara-yakubu.github.io/top_uk_youtubers_2024/)
 **Tech Stack**: SQL, Excel, Power BI  
-**Description**: Analyzed 100 UK YouTubers to identify trending niches and growth patterns.  
+**Description**: Analyzed 100 UK YouTubers to identify the most subscribers and most-viewed videos for a marketing campaign.  
 ![Thumbnail](/assets/youtubers.png){: style="max-width:300px"}
 
 
