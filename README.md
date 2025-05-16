@@ -1,2 +1,2 @@
 ---
-# Hi I'm Kauthara 
+# Hi, I'm Kauthara  👋
