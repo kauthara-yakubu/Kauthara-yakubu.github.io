@@ -53,3 +53,12 @@ I bring problem-solving efficiency to data challenges.
 ![Thumbnail](/assets/youtubers.png){: style="max-width:300px"}
 
 
+
+### [Vehicle Damage Assessment AI](https://kauthara-yakubu.github.io/vehicle-damage-assessment-ai/)
+**Tech Stack**: Python, Computer vision, XGBoost, RandomForest Regressor, Streamlit, Open CV, ClickUp
+
+**Description**: Crashcal is a tool that uses Machine learning to quickly and accurately estimate the repair cost of a car after a minor car accident.  
+![Thumbnail](/assets/Crashcal_pic.png){: style="max-width:300px"}
+     
+
+
